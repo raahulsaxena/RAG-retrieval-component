@@ -1,0 +1,38 @@
+[
+  {
+    "query": "What does Lucente, claim 1 say?",
+    "matches": [165]
+  },
+  {
+    "query": "What does Lucente, claim 16 say?",
+    "matches": [180]
+  },
+  {
+    "query": "What does Williams, claim 1 say?",
+    "matches": [553]
+  },
+  {
+    "query": "What does Williams, claim 20 say?",
+    "matches": [572]
+  },
+  {
+    "query": "Does Lucente, claim 10 refer to any prior claims?",
+    "matches": [174]
+  },
+  {
+    "query": "What does the claim referenecd by Lucente, claim 10 say?",
+    "matches": [165, 174]
+  },
+  {
+    "query": "In Williams, which other claims reference claim 20?",
+    "matches": [573, 574, 575, 576]
+  },
+  {
+    "query": "Which prior art is cited as the basis for the rejection?",
+    "matches": [8, 40]
+  },
+  {
+    "query": "Which paragraph in the description supports Karafin, claim 11?",
+    "matches": [347]
+  }
+]

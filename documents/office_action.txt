@@ -1,0 +1,111 @@
+DETAILED ACTION
+
+Notice of Pre-AIA or AIA Status
+
+The present application, filed on or after March 16, 2013, is being examined under the first inventor to file provisions of the AIA.
+
+In the event the determination of the status of the application as subject to AIA 35 U.S.C. 102 and 103 (or as subject to pre-AIA 35 U.S.C. 102 and 103) is incorrect, any correction of the statutory basis for the rejection will not be considered a new ground of rejection if the prior art relied upon, and the rationale supporting the rejection, would be the same under either status.
+
+Disposition of the Claims
+
+Claims 1-20 are pending.
+
+Claim Rejections - 35 USC § 102
+
+The following is a quotation of the appropriate paragraphs of 35 U.S.C. 102 that form the basis for the rejections under this section made in this Office action: A person shall be entitled to a patent unless – (a)(1) the claimed invention was patented, described in a printed publication, or in public use, on sale, or otherwise available to the public before the effective filing date of the claimed invention.
+
+Claims 1-16, 18-20 rejected under 35 U.S.C. 102(a)(1) as being anticipated by Lucente (US 20080144174 A1).
+
+Regarding claim 1 and 20, Lucente teaches an energy waveguide system for defining a plurality of energy propagation paths (Title, a dynamic autostereoscopic display: Figs. 2 and 3, perspective view of emissive modulators, optical fiber, and apertures/lenses, and Fig. 9, detailing collimation and intersection of the propagated energy, and Figs. 11 and 13, demonstrating energy inhibiting element positioned to limit propagation between the paths; Figs. 8 describe the concept of crosstalk) comprising:
+
+an array of energy waveguides (e.g. Fig. 9, an array of lenslets), the array comprising a first side and a second side (as defined by the light paths from origin in propagation direction), and being configured to direct energy therethrough along a plurality of energy propagation paths extending through a plurality of energy locations on the first side (Fig. 9, e.g. paths through the lenslets 220 and apertures 230);
+
+wherein a first subset of the plurality of energy propagation paths extend through a first energy location (Fig. 2 showing different emissive modulators piped to different sets of energy propagation paths);
+
+wherein a first energy waveguide is configured to direct energy along a first energy propagation path of the first subset of the plurality of energy propagation paths (Fig. 2, one of the sets 210), the first energy propagation path defined by a first chief ray formed between the first energy location and the first energy guide (sequitur), and further wherein the first energy propagation path extends from the first energy waveguide towards the second side of the array in a unique direction which is determined at least by the first energy location (Fig. 2); and
+
+wherein energy directed along the first energy propagation path through the first energy waveguide substantially fills a first aperture of the first energy waveguide (¶42, explaining that diffusers are present but not depicted by Fig. 2, and Fig. 8C, ¶82, teaching that the diffuser is used to attain a high fill factor); and
+
+an energy inhibiting element positioned to limit propagation of energy along a portion of the first subset of the plurality of energy propagation paths that do not extend through the first aperture (Fig. 13, anodized aluminum baffles 1310 and aperture mask 1320 at either end of the energy propagation path);
+
+Regarding claim 2, Lucente teaches the energy waveguide system of claim 1, wherein the energy inhibiting element is located on the first side between the array of energy waveguides and the plurality of energy locations (e.g. Fig. 13, several arrays of inhibiting elements i.e. anodized aluminum and black channels on first side of the lenslets).
+
+Regarding claim 3, Lucente teaches the energy waveguide system of claim 1, wherein the first energy waveguide comprises a two-dimensional spatial coordinate, and wherein the unique direction determined at least by the first energy location comprises a two-dimensional angular coordinate, whereby the 2D spatial coordinate and the 2D angular coordinate form a four-dimensional (4D) coordinate set (inherent that the claimed coordinates can be used to describe the structure of Lucente).
+
+Regarding claim 4, Lucente teaches the energy waveguide system of claim 3, wherein energy directed along the first energy propagation path comprises one or more energy rays directed through the first energy waveguide in a direction that is substantially parallel to the first chief ray (Fig. 6).
+
+Regarding claim 5, Lucente teaches the energy waveguide system of claim 1, wherein energy directed along the first energy propagation path converges with energy directed along a second energy propagation path through a second energy waveguide (Fig. 6).
+
+Regarding claim 6, Lucente teaches the energy waveguide system of claim 5, wherein the first and second energy propagation paths converge at a location on the second side of the array (Fig. 6).
+
+Regarding claim 7, Lucente teaches the energy waveguide system of claim 5, wherein the first and second energy propagation paths converge at a location on the first side of the array (Fig. 6).
+
+Regarding claim 8, Lucente teaches the energy waveguide system of claim 5, wherein the first and second energy propagation paths converge at a location between the first and second sides of the array (Fig. 6).
+
+Regarding claim 9, Lucente teaches the energy waveguide system of claim 1, wherein each energy waveguide comprises a structure for directing energy, the structure selected from a group consisting of: a) a structure configured to alter an angular direction of energy passing therethrough (e.g. lenslets and diffusers as in Fig. 11, ); b) a structure comprising at least one numerical aperture (Figs. 9, 11, 13); c) a structure configured to redirect energy off at least one internal surface (Fig. 13); d) an energy relay (Fig. 11, ¶75, relay lenses 1130).
+
+Regarding claim 10, Lucente teaches the energy waveguide system of claim 1, wherein the energy inhibiting element comprises a structure for attenuating or modifying energy propagation paths, the structure selected from a group consisting of: a) an energy blocking structure (Fig. 13, black channels); b) an element configured to alter a first energy propagation path to alter a fill factor of the first aperture (Fig. 13, black channels, anodized aluminum); c) a structure configured to limit an angular extent of energy proximate the first energy location (Fig. 13, black channels, anodized aluminum; see also Fig. 11, ¶75).
+
+Regarding claim 11, Lucente teaches the energy waveguide system of claim 10, wherein the structure configured to limit an angular extent of energy proximate the first energy location comprises an optical relay faceplate adjacent to the first energy location (¶75).
+
+Regarding claim 12, Lucente teaches the energy waveguide system of claim 10, wherein the energy blocking structure comprises at least one numerical aperture (inherent: insofar as a range of angles is admitted, a numerical aperture is defined)
+
+Regarding claim 13, Lucente teaches the energy waveguide system of claim 10, wherein the energy blocking structure comprises a baffle structure (Fig. 13).
+
+Regarding claim 14, Lucente teaches the energy waveguide system of claim 10, wherein the energy blocking structure is positioned adjacent to the first energy waveguide and generally extends towards the first energy location (Fig. 13).
+
+Regarding claim 15, Lucente teaches the energy waveguide system of claim 10, wherein the energy blocking structure is positioned adjacent to the first energy location and generally extends towards the first energy waveguide (Fig. 13).
+
+Regarding claim 16, Lucente teaches the energy waveguide system of claim 1, wherein the array of energy waveguides are arranged to form a planar surface (Figs. 2, 3, 11-13).
+
+Regarding claim 18, Lucente teaches the energy waveguide system of claim 1, wherein energy directed along the first energy propagation path is electromagnetic energy defined by a wavelength, the wavelength belonging to a regime selected from a group consisting of: a) visible light (¶35); b) ultraviolet; c) infrared; d) x-ray.
+
+Regarding claim 19, Lucente teaches the energy waveguide system of claim 1, wherein energy directed along the first energy propagation path is mechanical energy defined by pressure waves, the waves selected from a group consisting of: a) tactile pressure waves; b) acoustic sound vibrations (¶28, acousto-optic displays).
+
+Claim Rejections - 35 USC § 103
+
+The following is a quotation of 35 U.S.C. 103 which forms the basis for all obviousness rejections set forth in this Office action: A patent for a claimed invention may not be obtained, notwithstanding that the claimed invention is not identically disclosed as set forth in section 102 of this title, if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains. Patentability shall not be negated by the manner in which the invention was made.
+
+The factual inquiries set forth in Graham v. John Deere Co., 383 U.S. 1, 148 USPQ 459 (1966), that are applied for establishing a background for determining obviousness under 35 U.S.C. 103 are summarized as follows:
+
+1. Determining the scope and contents of the prior art.
+
+2. Ascertaining the differences between the prior art and the claims at issue.
+
+3. Resolving the level of ordinary skill in the pertinent art.
+
+4. Considering objective evidence present in the application indicating obviousness or nonobviousness.
+
+This application currently names joint inventors. In considering patentability of the claims the examiner presumes that the subject matter of the various claims was commonly owned as of the effective filing date of the claimed invention(s) absent any evidence to the contrary. Applicant is advised of the obligation under 37 CFR 1.56 to point out the inventor and effective filing dates of each claim that was not commonly owned as of the effective filing date of the later invention in order for the examiner to consider the applicability of 35 U.S.C. 102(b)(2)(C) for any potential 35 U.S.C. 102(a)(2) prior art against the later invention.
+
+Claim(s) 3 and 17 is/are rejected under 35 U.S.C. 103 as being unpatentable over Lucente as applied to claim 1 above, and further in view of Williams (US 8953012 B2).
+
+Regarding claim 3 and 17, Lucente teaches the energy waveguide system of claim 1, but does not explicitly show wherein the array of energy waveguides are arranged to form a curved surface.
+
+Williams teaches a multiplenoptic system with image stacking using an array of waveguides (Title) including wherein the array of energy waveguides are arranged to form a curved surface (Fig. 2, curved array of lenslets 244) thus considered to exhibit 2D spatial coordinates and angular coordinates about the same axes.
+
+It would have been obvious to one of ordinary skill in the art before the effective filing date of the claimed invention to have curved the array of waveguides of Lucente according to the teachings of Williams for the purpose of breaking the field of view into overlapping subfields, thus reducing imaging complexity.
+
+Double Patenting
+
+The nonstatutory double patenting rejection is based on a judicially created doctrine grounded in public policy (a policy reflected in the statute) so as to prevent the unjustified or improper timewise extension of the “right to exclude” granted by a patent and to prevent possible harassment by multiple assignees. A nonstatutory double patenting rejection is appropriate where the conflicting claims are not identical, but at least one examined application claim is not patentably distinct from the reference claim(s) because the examined application claim is either anticipated by, or would have been obvious over, the reference claim(s). See, e.g., In re Berg, 140 F.3d 1428, 46 USPQ2d 1226 (Fed. Cir. 1998); In re Goodman, 11 F.3d 1046, 29 USPQ2d 2010 (Fed. Cir. 1993); In re Longi, 759 F.2d 887, 225 USPQ 645 (Fed. Cir. 1985); In re Van Ornum, 686 F.2d 937, 214 USPQ 761 (CCPA 1982); In re Vogel, 422 F.2d 438, 164 USPQ 619 (CCPA 1970); In re Thorington, 418 F.2d 528, 163 USPQ 644 (CCPA 1969).
+
+A timely filed terminal disclaimer in compliance with 37 CFR 1.321(c) or 1.321(d) may be used to overcome an actual or provisional rejection based on nonstatutory double patenting provided the reference application or patent either is shown to be commonly owned with the examined application, or claims an invention made as a result of activities undertaken within the scope of a joint research agreement. See MPEP § 717.02 for applications subject to examination under the first inventor to file provisions of the AIA as explained in MPEP § 2159. See MPEP § 2146 et seq. for applications not subject to examination under the first inventor to file provisions of the AIA. A terminal disclaimer must be signed in compliance with 37 CFR 1.321(b).
+
+The USPTO Internet website contains terminal disclaimer forms which may be used. Please visit www.uspto.gov/patent/patents-forms. The filing date of the application in which the form is filed determines what form (e.g., PTO/SB/25, PTO/SB/26, PTO/AIA/25, or PTO/AIA/26) should be used. A web-based eTerminal Disclaimer may be filled out completely online using web-screens. An eTerminal Disclaimer that meets all requirements is auto-processed and approved immediately upon submission. For more information about eTerminal Disclaimers, refer to www.uspto.gov/patents/process/file/efs/guidance/eTD-info-I.jsp.
+
+Claims 1-20 are rejected on the ground of nonstatutory double patenting as being unpatentable over claims 1-30 of U.S. Patent No. 10663657.
+
+Although the claims at issue are not identical, they are not patentably distinct from each other because the broader scope of the instant claims is read on by those of the ‘657 patent. Furthermore, the limitations of the instant claims being taught above by Lucente, it would have been obvious to one of ordinary skill in the art before the effective filing date of the claimed invention to have modified the ‘657 patent with such features and otherwise obtained predictable imaging results.
+
+Conclusion
+
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to COLLIN X BEATTY whose telephone number is (571)270-1255. The examiner can normally be reached on M - F, 10am - 6pm.
+
+Examiner interviews are available via telephone, in-person, and video conferencing using a USPTO supplied web-based collaboration tool. To schedule an interview, applicant is encouraged to use the USPTO Automated Interview Request (AIR) at http://www.uspto.gov/interviewpractice.
+
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, Thomas Pham can be reached on 5712723689. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+
+Information regarding the status of an application may be obtained from the Patent Application Information Retrieval (PAIR) system. Status information for published applications may be obtained from either Private PAIR or Public PAIR. Status information for unpublished applications is available through Private PAIR only. For more information about the PAIR system, see https://ppair-my.uspto.gov/pair/PrivatePair. Should you have questions on access to the Private PAIR system, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative or access to the automated information system, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+
+/COLLIN X BEATTY/ Primary Examiner, Art Unit 2872
